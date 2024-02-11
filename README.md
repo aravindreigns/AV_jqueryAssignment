@@ -1,3 +1,5 @@
+Gen AI People - Assignment on Jquery
+
 About the code
 This is a code for an application that can help you practise your JQuery skills by implementing the tasks provided in the project https://github.com/users/genai-jerry/projects/2
 
